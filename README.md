@@ -1,7 +1,7 @@
 # 📦 Node.js REST API - Gestion de Tâches
 
 Une API REST construite avec **Node.js**, **Express** et **MySQL** pour gérer des tâches (CRUD), avec **authentification JWT**, **validation des données** et **tests automatisés**.  
-Ce projet est structuré et modulaire, prêt à être utilisé comme base pour d’autres APIs. :contentReference[oaicite:0]{index=0}
+Ce projet est structuré et modulaire, prêt à être utilisé comme base pour d’autres APIs.
 
 ---
 
