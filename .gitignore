@@ -1,0 +1,38 @@
+# Ignorer les dépendances installées
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Fichiers temporaires et runtime
+.pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dossiers de couverture de tests
+coverage/
+.nyc_output/
+
+# Build/output (si tu en as)
+build/
+dist/
+
+# Dossiers ou fichiers IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration locaux sensibles
+.env
+.env.*
