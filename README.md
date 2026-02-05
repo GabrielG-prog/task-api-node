@@ -33,7 +33,7 @@ Tu dois avoir installé localement :
 1. Clone le dépôt :
 
    ```bash
-   git clone https://github.com/TON_UTILISATEUR/TON_REPO.git
+   git clone https://github.com/GabrielG-prog/task-api-node.git
    cd TON_REPO
 
 2. Installe les dépendances :
